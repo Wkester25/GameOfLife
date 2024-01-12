@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d902898c-6852-4e40-b87d-084b934bbc1a" name="Changes" comment="l">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conways Game of Life.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameOfLife.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LifeCanvas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LifeControls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LifeGrid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LifeGridCells.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewLifeCanvas.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewLifeCanvas.java" afterDir="false" />
-    </list>
+    <list default="true" id="d902898c-6852-4e40-b87d-084b934bbc1a" name="Changes" comment="l" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,8 +66,17 @@
       <workItem from="1704982428430" duration="57000" />
       <workItem from="1704982502964" duration="3553000" />
       <workItem from="1704991597110" duration="1281000" />
-      <workItem from="1705005461346" duration="646000" />
+      <workItem from="1705005461346" duration="944000" />
     </task>
+    <task id="LOCAL-00001" summary="l">
+      <option name="closed" value="true" />
+      <created>1705023925490</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705023925490</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
